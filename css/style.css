@@ -218,14 +218,15 @@ section {
     width: 660px;
     height: 450px;
     padding: 10px;
-    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px !important;
     /* border: 2px solid black; */
-    background-color: blue;
+    background-color: #06BBCC;
     color: white;
-    transition: 1s;
+    transition: 0.8s;
+    cursor: pointer;
 }
 .r-about-text:hover{
-    background-color: #06BBCC;
+    background-color: #ecf0f1;
     color: black !important;
 }
 .r-about-text img{
@@ -923,7 +924,7 @@ input::placeholder {
 }
 
 #icon {
-    margin-right: 16px;
+    margin-right: 7px;
 }
 
 .social-links {
@@ -1012,7 +1013,7 @@ input::placeholder {
     height: 100%;
     border: none;
     outline: none;
-    background-color: #b3b3b3;
+    background-color: #fff;
 
 
 }
