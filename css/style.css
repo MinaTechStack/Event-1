@@ -612,7 +612,7 @@ nav {
     margin-top: 100px;
     font-size: 16px;
     border-top: 1px solid rgba(256, 256, 256, .1);
-    background-color: #59063d;
+    background-color: #06BBCC;
 }
 
 .container {
@@ -652,12 +652,12 @@ nav {
 
 .cart h4 {
     margin-bottom: 16px;
-    color: #fff;
+    color: #fff !important;
     font-size: 24px;
 }
 
 .cart ul {
-    color: yellow;
+    color: #fff !important;
 }
 
 .cart ul li:hover {
