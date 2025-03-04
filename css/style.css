@@ -900,10 +900,7 @@ input::placeholder {
     color: #fff;
     font-size: 24px;
 }
-
-.cart ul {
-    color: yellow;
-}
+ 
 
 .cart ul li:hover {
     text-decoration: underline;
